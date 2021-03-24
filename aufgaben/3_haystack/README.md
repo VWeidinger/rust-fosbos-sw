@@ -1,5 +1,5 @@
 # Die Nadel im Heuhaufen
-Bestimme wie oft ein Charakter in einem String ist.
+Bestimme, wie oft ein Charakter in einem String ist.
 
 Beispiel:
 1. Heuhaufen: **Mein Name ist Jürgen!**
