@@ -21,4 +21,4 @@ fn main() {
 
 // Aufgabe 2
 // Definiere die Funktion to_other_temperature_units -> um mehrere Werte gleichzeitig zurückzugeben nutze einen Tupel
-// Fahreheit celsius * 1.8 + 32.0; Kelvin celsius + 273.0
+// Fahrenheit: celsius * 1.8 + 32.0; Kelvin: celsius + 273.0

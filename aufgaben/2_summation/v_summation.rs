@@ -4,4 +4,4 @@ fn main() {
 }
 
 
-// Definiere die Funktion summation. Tipp: Um die Aufgabe zu lösen brauchst du eine Schleife.
+// Definiere die Funktion summation. Tipp: Um die Aufgabe zu lösen, brauchst du eine Schleife.
